@@ -1,4 +1,4 @@
-pwd[project]
+[project]
 name = "ambient-expense-agent"
 version = "0.1.0"
 description = ""
